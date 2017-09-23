@@ -11,9 +11,9 @@ tags:
     - github
 ---
 > 本篇主要讲如何在虚拟机centos6.5环境下构建一个github平台，用于发布Hexo这个静态页面。
-# 1.安装环境：
+1.安装环境：
 虚拟机下CentOS6.5，nat模式保证可以上网即可。windows环境也有相关软件，比较难以理解。
-# 2.必备插件安装：
+2.必备插件安装：
 
 ```
 yum -y install gcc zlib-devel openssl-devel perl cpio expat-devel gettext-devel curl autoconf gcc-c++ openssl-devel
