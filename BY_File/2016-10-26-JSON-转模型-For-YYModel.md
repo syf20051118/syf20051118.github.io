@@ -6,7 +6,7 @@ date:       2016-10-26
 author:     BY
 header-img: img/post-bg-ios9-web.jpg
 catalog: true
-tags:
+#tags:
     - iOS
     - 开发技巧
 ---
