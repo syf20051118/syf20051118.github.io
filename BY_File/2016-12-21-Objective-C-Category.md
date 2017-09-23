@@ -6,7 +6,7 @@ date:       2016-12-21
 author:     BY
 header-img: img/post-bg-ios9-web.jpg
 catalog: true
-tags:
+#tags:
     - Category
     - iOS
     - ObjC
